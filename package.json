@@ -1,0 +1,26 @@
+{
+  "name": "proyect-1a-math",
+  "version": "1.0.0",
+  "description": "simple project of math to learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yandre13/proyect-1a-math.git"
+  },
+  "keywords": [
+    "math",
+    "multiply",
+    "divide",
+    "substract",
+    "add"
+  ],
+  "author": "yandre13 <yandre13.elsf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yandre13/proyect-1a-math/issues"
+  },
+  "homepage": "https://github.com/yandre13/proyect-1a-math#readme"
+}
