@@ -5,7 +5,7 @@ module.exports = {
 	 * @param {*} n1 Number one of the sum
 	 * @param {*} n2 Number two of the sum
 	 */
-	add: (n1, n2) => n1 + n2,
+	sum: (n1, n2) => n1 + n2,
 	/**
 	 * @example
 	 * n1 = 1, n2 = 3 => result -2
